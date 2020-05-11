@@ -1,0 +1,6 @@
+[
+  {
+    "name": "oscar-container",
+    "imageUri": "007723767982.dkr.ecr.us-east-2.amazonaws.com/mb3demo/oscar:latest"
+  }
+]
