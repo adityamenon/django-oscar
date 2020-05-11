@@ -335,6 +335,9 @@ var oscar = (function(o, $) {
         o.responsive.init();
         o.responsive.initSlider();
         o.compatibility.init();
+        
+        let $pageHeader = $(".page-header h1");
+        $pageHeader.text($pageHeader.text() + " are on 50% discount!");
     };
 
     return o;
